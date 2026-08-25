@@ -1,0 +1,10 @@
+{
+  "name": "더마예약",
+  "short_name": "더마예약",
+  "description": "아란피부과 외래 예약",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d4a45",
+  "theme_color": "#0d4a45",
+  "lang": "ko"
+}
