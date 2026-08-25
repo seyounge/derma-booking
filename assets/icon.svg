@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#157a71"/>
+      <stop offset="1" stop-color="#0b3f3b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1024" height="1024" rx="228" fill="url(#bg)"/>
+
+  <!-- calendar hangers -->
+  <rect x="356" y="176" width="64" height="132" rx="32" fill="#bfe0d9"/>
+  <rect x="604" y="176" width="64" height="132" rx="32" fill="#bfe0d9"/>
+
+  <!-- schedule card -->
+  <rect x="176" y="248" width="672" height="600" rx="88" fill="#ffffff"/>
+  <rect x="176" y="248" width="672" height="118" rx="88" fill="#e4f0ed"/>
+  <rect x="176" y="308" width="672" height="58" fill="#e4f0ed"/>
+
+  <!-- the one urgent slot -->
+  <rect x="248" y="430" width="424" height="86" rx="43" fill="#fde8e6"/>
+  <circle cx="304" cy="473" r="26" fill="#b42318"/>
+
+  <!-- remaining slots -->
+  <rect x="248" y="562" width="528" height="86" rx="43" fill="#e4f4ef"/>
+  <circle cx="304" cy="605" r="26" fill="#0f6b57"/>
+
+  <rect x="248" y="694" width="352" height="86" rx="43" fill="#eef2f1"/>
+  <circle cx="304" cy="737" r="26" fill="#9fb3af"/>
+</svg>
